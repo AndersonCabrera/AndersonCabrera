@@ -25,6 +25,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
@@ -36,7 +38,7 @@
 
 ###
 
-<h3 align="left">* Andar de Skate; <br> * Tocar Violão; <br> * Jogar Xadrez com meu filho; <br> * Fazer churrasco pra minha família;
+<h3 align="left"> * Ler; <br> * Estudar; <br> * Andar de Skate; <br> * Tocar Violão; <br> * Jogar Xadrez com meu filho; <br> * Fazer churrasco pra minha família; 
   
 ###
   
