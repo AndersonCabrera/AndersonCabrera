@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Me chamo Anderson e sou um aspirante a Desenvolvedor Java.</h3>
+<h3 align="left">Me chamo Anderson e sou um aspirante a Analista de Dados 📈</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left"> * Ler; <br> * Estudar; <br> * Andar de Skate; <br> * Tocar Violão; <br> * Jogar Xadrez com meu filho; <br> * Fazer churrasco pra minha família; 
+<h3 align="left"> * Ler; <br> * Estudar; <br> * Andar de Skate; <br> * Tocar violão 🎸; <br> * Jogar Xadrez com meu filho ♟️; <br> * Fazer churrasco pra minha família 🍖; 
   
 ###
   
@@ -46,5 +46,5 @@
  
 ###
   
-<h4 align="left">Me tornar um desenvolvedor de sucesso, que possa contribuir com a melhoria da sociedade como um todo. Adquirir experência suficiente para levar a tecnologia para além dos limites sócio-econômicos.</h4>
+<h4 align="left">Me tornar um Analista de Dados de sucesso, que possa contribuir com a melhoria da sociedade como um todo. Adquirir experência suficiente para levar a tecnologia para além dos limites sócio-econômicos.</h4>
   
