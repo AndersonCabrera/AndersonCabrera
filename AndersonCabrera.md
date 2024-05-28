@@ -13,7 +13,7 @@
 
 <div align="left">
 
- - Python na DIO;
+ - Python na [DIO](https://www.dio.me/bootcamp);
  - SQL;
  - Versionamento de Código com Git e GitHub; 
   
