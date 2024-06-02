@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Me chamo Anderson e sou um aspirante a Analista de Dados 📈</h3>
+<h3 align="left">Me chamo Anderson Cabrera e sou um aspirante a Analista de Dados 📈</h3>
 
 
 ###
@@ -11,14 +11,14 @@
 
 ###
 
-<div align="left">
+<h3 align="left">
 
  - Python na [DIO](https://www.dio.me/bootcamp);
  - SQL;
  - Versionamento de Código com Git e GitHub; 
   
   ###
-</div>
+</h3>
 
 ###
 
@@ -26,8 +26,15 @@
 
 ###
 
-<h3 align="left"> * Ler; <br> * Estudar; <br> * Andar de Skate; <br> * Tocar violão 🎸; <br> * Jogar Xadrez com meu filho ♟️; <br> * Fazer churrasco pra minha família 🍖; 
-  
+<h3 align="left"> 
+
+  - Ler;
+  - Estudar;
+  - Andar de Skate;
+  - Tocar violão 🎸;
+  - Jogar Xadrez com meu filho ♟️;
+  - Fazer churrasco pra minha família 🍖; 
+    
 ###
   
 <h2 align="left">Meu Objetivo é:</h2>
